@@ -3,7 +3,9 @@ int main ()
 {
     printf("Hello, World!\n");
 
-    printf("Kacper Klonowski");
+    printf("Kacper Klonowski\n");
+
+    printf("Mateusz Wojcik");
 
     return 0;
 }
